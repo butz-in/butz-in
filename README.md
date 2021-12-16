@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @butz-in.
-- 👀 I’m interested in getting away from tech.
+- 👀 I’m interested many other things other than tech.
 - 🌱 I’m currently learning bocce.
 - 💞️ I’m looking to collaborate on streamlining implementation of security.
 - 📫 How to reach me IP over Avian Carriers (RFC2549).
