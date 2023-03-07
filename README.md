@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @butz-in.
-- 👀 I’m interested many other things other than tech.
+- 👀 Cybersec.
 - 🌱 I’m currently learning bocce.
-- 💞️ I’m looking to collaborate on streamlining implementation of security.
-- 📫 How to reach me IP over Avian Carriers (RFC2549).
+- 💞️ Learning everyday.
+- 📫 Reach me IP over Avian Carriers (RFC2549).
 
 <!---
 butz-in/butz-in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
